@@ -58,8 +58,8 @@ body{
     background-color: var(--primary-color);
 }
 body.dark{
-    --primary-color: #264563;
-    --panel-color: #d3b611;
+    --primary-color: #ec0505;
+    --panel-color: #e31717;
     --text-color: #CCC;
     --black-light-color: #CCC;
     --border-color: #4D4C4C;
