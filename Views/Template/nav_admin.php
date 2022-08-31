@@ -37,12 +37,12 @@
                 </a></li>
                 <li><a href="<?= base_url(); ?>/pedidos">
                     <i class='bx bx-shopping-bag'></i>
-                    <span class="link-name">Pedidos</span>
+                    <span class="link-name">Reporte</span>
                 </a></li>
 
                 <li><a href="<?= base_url(); ?>/pedidos">
                     <i class='bx bx-shopping-bag'></i>
-                    <span class="link-name">Reportes</span>
+                    <span class="link-name">Informe</span>
                 </a></li>
                 
 
