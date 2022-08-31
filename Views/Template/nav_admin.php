@@ -40,12 +40,17 @@
                     <span class="link-name">Pedidos</span>
                 </a></li>
 
+              
                 <li><a href="<?= base_url(); ?>/pedidos">
                     <i class='bx bx-shopping-bag'></i>
                     <span class="link-name">Reportes</span>
                 </a></li>
                 
-
+                <li><a href="<?= base_url(); ?>/pedidos">
+                    <i class='bx bx-shopping-bag'></i>
+                    <span class="link-name">Informes</span>
+                </a></li>
+                
 
                 <!--lo 
                 <li><a href="#">
